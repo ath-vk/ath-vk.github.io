@@ -9,7 +9,7 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Atharva Vijay Khade"
 description              : &description "Constantly learning and exploring the about AI, Data Science, and Blockchain technologies to drive innovation and solutions."
