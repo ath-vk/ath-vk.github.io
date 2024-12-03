@@ -2,6 +2,7 @@
 title: "Decentralized-Rating-System"
 excerpt: "Meta Basket is an online store which has a Decentralized, Blockchain Based, Secured and Trusted Rating System.<br/><img src='/images/meta-basket-img.png'>"
 collection: portfolio
+permalink: /projects/decentralized-rating-sys
 ---
 
 * Why do we require a decentralized rating system ?

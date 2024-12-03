@@ -2,6 +2,7 @@
 title: "Blockchain Based Lottery Project"
 excerpt: "A blockchain based decentralized lottery system. The smart contract is deployed over Ethereum's Rinkeby Test Network.<br/><img src='/images/lottery.png'>"
 collection: portfolio
+permalink: /projects/blockchain-based-lottery
 ---
 
 * Need for decentralization

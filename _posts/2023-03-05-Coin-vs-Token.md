@@ -4,10 +4,6 @@ date: 2023-03-05
 permalink: /posts/2023/03/coin-vs-token-explained/
 tags:
   - Blockchain
-  - Web3
-  - Crypto
-  - Coin
-  - Token
 ---
 
 Let’s dive into an exciting example that will help you understand the difference between a Coin and a Token!
