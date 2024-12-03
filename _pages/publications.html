@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}" target="_blank">Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
@@ -32,5 +28,9 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
+<hr>
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles and papers on my <a href="{{site.author.googlescholar}}" target="_blank">Google Scholar</a> and <a href="{{site.author.orcid}}" target="_blank">ORCID</a> profile.</div>
+{% endif %}
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Securing excellence on the global stage—2nd Best Paper Award at IEEE ICBDS!"
+title: "Securing 2nd Best Paper Award at IEEE ICBDS!"
 collection: talks
 type: "Best Paper Awards"
 permalink: /achievements/best-paper-award
