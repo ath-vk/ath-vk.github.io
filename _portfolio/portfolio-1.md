@@ -1,7 +1,28 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Decentralized-Rating-System"
+excerpt: "Meta Basket is an online store which has a Decentralized, Blockchain Based, Secured and Trusted Rating System.<br/><img src='/images/meta-basket-img.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* Why do we require a decentralized rating system ?
+    * Current rating systems are centralized having a complete control over the ratings database
+    * Central authorities can edit / delete negative ratings to avoid their defamation.
+    * It can led to huge rating scams with a purpose to attract buyers.
+
+<img src='/images/meta-basket-img.png'>
+
+* How Blockchain will solve this problem ?
+
+    * A Blockchain network is a decentralized, distributed ledger which has rigorous Cryptographic concepts, Consensus mechanisms which makes it reliable, trustworthy and impossible to hack.
+    * Any thing written in blockchain can’t be removed unless done legally, making rating systems consumer friendly.
+    * It will also ensure that our system doesn't have single point of failure.
+
+* Features
+    * Provides trustworthy ratings for products.    
+    * Ratings can't be manipulated illegally.   
+    * Secured p2p payments using MetaMask. 
+    * User friendly and clean UI.
+
+<hr>
+
+Read more about project on [github](https://github.com/thisisbipin/decentralized-rating-system/tree/master?tab=readme-ov-file).
