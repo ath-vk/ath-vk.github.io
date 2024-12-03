@@ -24,4 +24,5 @@ In summary, we understand that coins are crypto-currencies native to the blockch
 
 Coming up with more such interesting stuff regarding Web3 and blockchain…..
 
-For more info on article [Read on Medium](https://medium.com/@atharvavk123/coin-vs-token-simply-explained-3b0047be82a4)
+
+For more info on article <a href="https://medium.com/@atharvavk123/coin-vs-token-simply-explained-3b0047be82a4" target="_blank" rel="noopener noreferrer">Read on Medium</a>.

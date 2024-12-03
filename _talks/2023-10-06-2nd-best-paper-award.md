@@ -10,4 +10,4 @@ location: "IIIT Naya Raipur, Chhattisgarh, India"
 
 Our research paper, which served as my Final Year Project, has clinched the 2nd Best Paper Award in the Security and Privacy track at the IEEE International Conference on Blockchain and Distributed Systems Security (ICBDS)! 🌐✨
 
-[More info here](https://www.linkedin.com/posts/activity-7142126901136871424-gTsC?utm_source=share&utm_medium=member_desktop)
+<a href="https://www.linkedin.com/posts/activity-7142126901136871424-gTsC?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noopener noreferrer">More info here</a>

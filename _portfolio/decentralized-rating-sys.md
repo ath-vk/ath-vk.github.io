@@ -26,4 +26,4 @@ permalink: /projects/decentralized-rating-sys
 
 <hr>
 
-Read more about project on [github](https://github.com/thisisbipin/decentralized-rating-system/tree/master?tab=readme-ov-file).
+Read more about project on <a href="https://github.com/thisisbipin/decentralized-rating-system/tree/master?tab=readme-ov-file" target="_blank" rel="noopener noreferrer">github</a>.
